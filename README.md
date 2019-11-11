@@ -1,0 +1,1 @@
+# postgresqljoin2tables_cdrosalita
